@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
+- [Brian Mutuma](https://github.com/Brian-M-Code)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
